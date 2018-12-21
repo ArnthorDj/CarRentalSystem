@@ -1,2 +1,2 @@
-plate_number,manual_automatic,type,category,price,status,seats
-AB 123,0,Volvo,0,21000,0,5
+plate_number,manual_automatic,type,category,model,price,status,seats
+AB 123,0,Volvo,0,2018,21000,0,5
