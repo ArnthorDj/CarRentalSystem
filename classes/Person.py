@@ -14,6 +14,7 @@ class Person():
         self.__name = new_name
 
     def __str__(self):
-        return "Kennitala:\t{}\nNafn:\t{}".format(self.__ssn, self.__name)
+        return "{:<15}{}\n{:<15}{}".format("Kennitala:", self.getSsn(), 
+                                           "Nafn:", self.getName())
     def __repr__(self):
-        return "{},{}".format(self.__ssn, self.__name)
+        return "{},{}".format(self.getSsn(), self.getName())
