@@ -1,2 +1,2 @@
-order_id,car_plate_number,customer_ssn,employee_number,pick_up_date,return_date,days,car_cost,insurance_cost,payment,paid
-1,AB 123,2609982699,1,30-12-2018,10-01-2019,11,110000,0,0,0
+order_id,car_plate_number,customer_ssn,employee_number,pick_up_date,return_date,days,insurance_cost,payment,paid
+1,AB 123,2609982699,1,30-12-2018,10-01-2019,11,0,0,0
